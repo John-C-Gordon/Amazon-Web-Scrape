@@ -1,2 +1,2 @@
-# amazon_webscrape
+# Scraping Amazon Grand Piano Price Data
 I've been in the market for a hybrid electric/grand piano, specifically the Celviano model from Casio. They can of course be quite expensive, but prices can fluctuate over time, so I'd like to keep an eye out. So naturally, I took to Python to automate a price scraping script that will check the price once every ten days and add it to an existing Excel spreadsheet. Additionally, I included in my code a process that will automatically notify me via email if the price drops below $1,500. 
